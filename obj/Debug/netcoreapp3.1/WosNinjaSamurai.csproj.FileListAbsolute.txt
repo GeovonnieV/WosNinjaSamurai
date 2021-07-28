@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.exe
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.deps.json
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.dll
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\bin\Debug\netcoreapp3.1\WosNinjaSamurai.pdb
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.dll
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.pdb
+C:\Users\Geo\code\wos\cSharp\WosNinjaSamurai\obj\Debug\netcoreapp3.1\WosNinjaSamurai.genruntimeconfig.cache
